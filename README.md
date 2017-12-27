@@ -1,7 +1,7 @@
 # ImageFactory
 图像处理
 
-[![Build Status](https://travis-ci.org/CS-Tao/ImageFactory.svg?branch=master)](https://travis-ci.org/CS-Tao/ImageFactory) [![license](https://img.shields.io/badge/Maint-yes-red.svg)](https://github.com/RS-GIS-Geeks/View-Spot-of-City)
+[![Build Status](https://travis-ci.org/CS-Tao/ImageFactory.svg?branch=master)](https://travis-ci.org/CS-Tao/ImageFactory) [![license](https://img.shields.io/badge/Maint-false-red.svg)](https://github.com/CS-Tao/ImageFactory)
 
 ## 基本功能
 
