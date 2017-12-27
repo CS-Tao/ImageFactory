@@ -1,7 +1,7 @@
 # ImageFactory
 图像处理
 
-[![Build Status](https://travis-ci.org/CS-Tao/ImageFactory.svg?branch=master)](https://travis-ci.org/CS-Tao/ImageFactory) [![license](https://img.shields.io/badge/Maint-false-red.svg)](https://github.com/CS-Tao/ImageFactory)
+[![Build status](https://ci.appveyor.com/api/projects/status/s1iccaxx0kw4k301?svg=true)](https://ci.appveyor.com/project/CS-Tao/imagefactory) [![Build Status](https://travis-ci.org/CS-Tao/ImageFactory.svg?branch=master)](https://travis-ci.org/CS-Tao/ImageFactory) [![license](https://img.shields.io/badge/Maint-false-red.svg)](https://github.com/CS-Tao/ImageFactory)
 
 ## 基本功能
 
