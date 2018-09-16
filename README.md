@@ -15,3 +15,15 @@
 - [x] ISODATA影像分类
 - [ ] sift特征匹配
 - [ ] 图片拼接
+
+### ISODATA 功能截图
+
+![1.jpeg](https://raw.githubusercontent.com/CS-Tao/github-content/master/contents/github/Image-Factory/1.jpeg)
+
+![2.jpeg](https://raw.githubusercontent.com/CS-Tao/github-content/master/contents/github/Image-Factory/2.jpeg)
+
+![3.jpeg](https://raw.githubusercontent.com/CS-Tao/github-content/master/contents/github/Image-Factory/3.jpeg)
+
+![4.jpeg](https://raw.githubusercontent.com/CS-Tao/github-content/master/contents/github/Image-Factory/4.jpeg)
+
+![5.png](https://raw.githubusercontent.com/CS-Tao/github-content/master/contents/github/Image-Factory/5.png)
